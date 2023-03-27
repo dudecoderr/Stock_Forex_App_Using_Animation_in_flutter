@@ -4,7 +4,7 @@ A new Flutter project.
 
 # Changelog
 
-Note: _**last updated january 2023 configured project to latest flutter version 3.7.3**_
+Note: _**last updated january 2023 configured project to latest flutter version 3.7.6**_
 
 <p align="center">
 <img src="" width="200%">
